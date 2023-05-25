@@ -2,4 +2,5 @@
 layout: page
 ---
 
-# About test
+# Guillem Mateu
+## Professor de [Es Liceu](http://esliceu.cat)
